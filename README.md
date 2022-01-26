@@ -1,4 +1,4 @@
-Python Exercise  
+# Python Exercise  
 
 ## Financial Analysis  
 Created a Python script that analyzes a hypothetical company's financial records (budget_data.csv) to calculate each of the following:
